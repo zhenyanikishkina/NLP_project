@@ -80,6 +80,8 @@ python evaluate.py \
 1. Синтетические данные: [InPars-v1](https://github.com/zetaalphavector/InPars?tab=readme-ov-file)
 2. Неразмеченные данные: [independent-cropping](https://drive.google.com/file/d/1_eCs_LhvvYm0lSaXR6byd3VJHq1kfUzG/view?usp=sharing)
 3. unarXive: [doc-doc](https://drive.google.com/file/d/17eBHeFj0Vbs4sFdwjdods7kZJSL-hG9p/view?usp=sharing), [query-doc](https://drive.google.com/file/d/1rXWG-m1ZQc-GcUOlGCLMFLN4dP3NE3nN/view?usp=sharing)
+
+
 **evaluation-data:**
 1. [SciDocs](https://drive.google.com/file/d/1kyP7ytWFIxQ7d0H0sldvR9yIPU9fkVFN/view?usp=sharing)
 2. ArguAna в папке datasets

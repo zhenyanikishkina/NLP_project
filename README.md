@@ -1,6 +1,6 @@
 # Итеративная подборка коллекции релевантных документов
 
-### 1.Пример запуска обучения на датасете **MS MARCO**:
+### 1. Пример запуска обучения на датасете **MS MARCO**:
 ```python
 python train.py \
     --save_dir logs/ \
@@ -76,4 +76,4 @@ python evaluate.py \
 ```
 ----
 ### Данные:
-1. Синтетические данные -- [InPars-v1](https://github.com/zetaalphavector/InPars?tab=readme-ov-file)
+1. Синтетические данные: [InPars-v1](https://github.com/zetaalphavector/InPars?tab=readme-ov-file)
